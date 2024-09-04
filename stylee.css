@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#body{
+    
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#h1{
+  color: rgb(180, 188, 219);  
+}
+
+#heading{
+    color: rgb(205, 228, 182);
+}
+
+#menu{
+    background-color: rgb(194, 78, 174);
+    width: auto;
+    /* height: auto; */
+    color:rgb(27, 5, 5);
+    padding: 20px 50px;
+    text-align: right;
+    border-radius: 5px;
+    text-decoration: none;
+    
+     
+          
+}
+
+#menu a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    background-color: rgb(141, 122, 13);
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    
+
+}
+
+#menu a:hover{
+    background-color: rgb(6, 6, 63);
+}
+
+
+#hero{
+    background-color: rgb(211, 81, 7);
+    height: 400px;
+    width: auto;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 100px;
+}
+
+#hero h1{
+    color: #f7f0f0;
+    font-size: 40px;
+}
+
+#hero p{
+    column-rule-color: white;
+    font-size: 20px;
+    color: #fff;
+    margin-top: 10px;
+    
+    
+}
+
+#hero a{
+    background-color: rgb(8, 8, 153);
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+#hero a:hover{
+    background-color: rgb(216, 17, 61);
+}
+
+#courses{
+    margin-top: 30px;
+    text-align: center;
+    
+      
+    
+}
+
+#courses h1{
+    color: black;
+   text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    
+    
+
+}
+
+#courses img{
+    height:400px;
+    width: 400px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    
+    
+    
+}
